@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
+* Name: *Đỗ Thành Vinh*
+* ID: *BA11-102*
+* Group ID: *24*
 
